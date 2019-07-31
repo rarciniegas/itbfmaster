@@ -19,20 +19,28 @@
           <label>PO #</label>
           <input type="text" class="form-control" name="po" placeholder="PO">
         </div>
-        <div class="col-md-1 mb-3 form-group">
-          <label>ISF</label>
-          <input type="text" class="form-control" name="isf" placeholder="ISF">
+        <div class="custom-control custom-checkbox col-md-3 mb-3">
+          <input type="checkbox" class="custom-control-input" id="isf">
+          <label class="custom-control-label" for="isf">ISF</label>
         </div>
+      </div>
+      <div class="row">
         <div class="col-md-2 mb-3 form-group">
           <label>CHK By:</label>
           <input type="text" class="form-control" name="check_by" placeholder="chk by">
         </div>
+        
+        <div class="col-md-4 mb-3 form-group">
+          <label>Arrival date</label>
+          <input type="date" class="form-control" name="arrival_date" placeholder="date">
+        </div>
+        
       </div>
 
       <div class="row">
-        <div class="col-md-3 mb-3 form-group">
+        <div class="col-md-4 mb-3 form-group">
           <label>Docs received</label>
-          <input type="text" class="form-control" name="reference" placeholder="date">
+          <input type="date" class="form-control" name="docs_received" placeholder="date">
         </div>
         <div class="col-md-3 mb-3 form-group">
           <label>SCAC:</label>
@@ -63,6 +71,48 @@
         </div>
       </div>
 
+      <h2>Documents</h2>
+      <div class="row">
+        <div class="col-md-4 mb-3 form-group">
+          <label>Arrival notice</label>
+          <input type="date" class="form-control" name="arrival_date" placeholder="date">
+        </div>
+        <div class="col-md-4 mb-3 form-group">
+          <label>PGA</label>
+          <input type="date" class="form-control" name="pga_date" placeholder="date">
+        </div>
+        <div class="col-md-4 mb-3 form-group">
+          <label>TSCA</label>
+          <input type="date" class="form-control" name="tsca_date" placeholder="date">
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-4 mb-3 form-group">
+          <label>Other</label>
+          <input type="date" class="form-control" name="other_date" placeholder="date">
+        </div>
+        <div class="col-md-4 mb-3 form-group">
+          <label>Invoice</label>
+          <input type="date" class="form-control" name="invoice_date" placeholder="date">
+        </div>
+        <div class="col-md-4 mb-3 form-group">
+          <label>Packing list</label>
+          <input type="date" class="form-control" name="packing_list_date" placeholder="date">
+        </div>
+      </div>
+
+      <div class="row">
+
+        
+        <div class="col-md-4 mb-3 form-group">
+          <label>B/L</label>
+          <input type="date" class="form-control" name="bl_date" placeholder="date">
+        </div>
+        <div class="col-md-4 mb-3 form-group">
+          <label>Cert. of origin</label>
+          <input type="date" class="form-control" name="origin_date" placeholder="date">
+        </div>
+      </div>
 
       <h2>BILL AND GIVE BACK</h2>
       <div class="row">

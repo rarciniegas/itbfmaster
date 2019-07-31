@@ -1,0 +1,1678 @@
+Prefix	Name	Origin	Owner		
+AAAU	acl	HK	Asia Container Leasing Co., Ltd.		
+
+AACU	ace global lines	AE	Ace Global Lines Dwc. LLC.		
+
+AAFU		AT	Bundesministerium für Landesverteidigung		
+
+AAGU		DE	MTU Onsite Energy Systems GmbH.		
+
+AAIU	A&A shipping	IL	A&A Shipping Ltd.		
+
+AAMU	albatross	HK	Albatross Tank Leasing Co., Ltd.		
+
+AATU		IN	Amfico Agencies Pvt. Ltd.		
+
+ABBU		NL	UTS - Abbink Rotterdam BV.		
+
+ABBU	abc	US	Atlantic Bulk Carriers Management Ltd.		
+
+ABCU		US	ABC Mobile Storage LLC.		
+
+ABCU	chehab	NG	Chehab Industrial & Medical Gases S.A.L.		
+
+ABEU	vandenbosch.com	NL	L&T BV.		
+
+ABLK	aurizon	AU	Aurizon Holdings Ltd.		
+
+ABLU		BE	Etat - Major des Forces Armees Belges		
+
+ABMU		RU	Ojsc. Abakanvagonmash		
+
+ABYU	abbey	GB	Abbey Logistics Group Ltd.		
+
+ACAU		FI	Arctic Container Oy.		
+
+ACAU	bridgestone	JP	Bridgestone Corporation		
+
+ACBU		BE	ACB Containers NV.		
+
+ACCU	atlantic coast	US	Atlantic Coast Container Brokerage & Sales Inc.		
+
+ACDU		BE	Desotec NV.		
+
+ACEU		KR	Ace Engineering & Co., Ltd.		
+
+ACEU		GB	Ace Container Services Ltd.		
+
+ACIU		US	Allstate Container Inc.		
+
+ACLU	acl	US	Atlantic Container Line		
+
+ACNU	akzonobel	NL	AkzoNobel Polymer Chemicals BV.		
+
+ACOU	acotral	ES	Compañía Logística Acotral S.A.		
+
+ACPU	acp	BE	Cardigas / ACP Belgium		
+
+ACRU	container removals	AU	Australian Container Removals Pty. Ltd.		
+
+ACRU		CN	Accipiter Oilfield Equipment		
+
+ACSU	arrc	CA	Commonwealth Independent States Navigation Inc.		
+
+ACXU	atlanticargo	NO	G2 Ocean AS.		
+
+ADAA	adami	IT	Adami Autotrasporti S.p.A.		
+
+ADAU	air drilling	US	Air Drilling Associates Inc.		
+
+ADBU		IN	Agrocel Industies Pvt. Ltd.		
+
+ADDU	adaptainer	GB	Adaptainer Leasing Ltd.		
+
+ADFT		AU	Australian Goverment - Department of Defense		
+
+ADFU		AU	Australian Goverment - Department of Defense		
+
+ADHU		IT	Adhoc S.r.l.		
+
+ADKU	aga	DK	AGA Gas A/S.		
+
+ADMU	admiral	TR	Tetra Leasing and Trading Inc.		
+
+ADNU		UA	Ademn LLC.		
+
+ADRU	adr trans	ES	Barcelonesa de Drogas y Productos Quimicos S.A.		
+
+ADXU	act	US	Applied Cryo Technologies		
+
+ADYU		AZ	ADY Container LLC.		
+
+AEDB	aurizon	AU	Aurizon Holdings Ltd.		
+
+AEED	rail containers	AU	Aurizon Holdings Ltd.		
+
+AEGU		GB	Aegeus Energy Solutions Ltd.		
+
+AEHQ	aurizon	AU	Aurizon Holdings Ltd.		
+
+AELU	mitsubishi	JP	Mitsubishi Chemical Corporation		
+
+AELU	ael	HK	Asian Express Line Co., Ltd.		
+
+AESU		DO	AES Andres		
+
+AEVU	gridbank	CH	Bluehorn S.A.		
+
+AEXU	ael	GB	Africa Express Line Ltd.		
+
+AFBU		BE	Affilips NV.		
+
+AFCU	afc	BE	Adpo NV.		
+
+AFDB	aurizon	AU	Aurizon Holdings Ltd.		
+
+AFED	aurizon	AU	Aurizon Holdings Ltd.		
+
+AFIU	aga	DK	Aga Gas		
+
+AFIU	agmark	US	Agmark Capital Holdings Inc.		
+
+AFLU	air flow	FR	Air Flow S.A.R.L.		
+
+AFMU		ES	Alfil Logistics S.A.		
+
+AFRF	aurizon	AU	Aurizon Holdings Ltd.		
+
+AFRU	action force	CA	Action Force Transport Ltd.		
+
+AFSU		IT	Autofrigo Sud Service Soc. Con S.r.l.		
+
+AFVU	alfons freriks	NL	Alfons Freriks Logistics BV.		
+
+AGAU	linde	NL	Linde Gas Benelux BV.		
+
+AGBU		IN	Archean Chemical Industries Pvt. Ltd.		
+
+AGCU	greiwing	DE	Alfons Greiwing GmbH.		
+
+AGFU		AE	The Arabian Industrial Gases Co., Ltd.		
+
+AGGU		TZ	Alistair James Company		
+
+AGKU	aggreko	GB	Aggreko PLC.		
+
+AGLU	agunsa	CL	Agunsa Agencias Universales S.A.		
+
+AGLU	agl	IE	Associated Global Logistics Ltd.		
+
+AGMU	agmark	US	Agmark Capital Holdings Inc.		
+
+AGOU	airgas	US	Airgas Inc.		
+
+AGPU		GB	A - Gas (UK) Ltd.		
+
+AGRU		FR	Agricool SAS.		
+
+AGSU	aga	SE	AGA Gas AB.		
+
+AGXU	africa greentec	TR	AGT Konteyner Ltd. Sgi.		
+
+AHGU		AE	Al Ghaith Industries LLC.		
+
+AHLU		GB	Abnormal Load Engineering Ltd.		
+
+AIBU	air liquide	BR	Air Liquide Brazil Ltda.		
+
+AIDU		US	Albermarle Corporation		
+
+AIGU	airgas	US	Airgas Speciality Gases		
+
+AIJA	aggreko	GB	Aggreko PLC.		
+
+AIMU		US	TRS Containers		
+
+AIPU		IL	A.I.P.P. Industries Ltd.		
+
+AIRU	air products	US	Air Products and Chemical Inc.		
+
+AISU		IT	Trasporti Pesanti di Storti Tullio & C. S.r.l.		
+
+AITU	atofina	NL	Arkema Rotterdam BV.		
+
+AIYU		AE	Aiyer Shipping Container Line		
+
+AJIU	ajinomoto	JP	Sanpo transport c/o Ajinomoto Co., Ltd.		
+
+AJKU	multirack	AU	MultiRack Pty. Ltd.		
+
+AKBU	nuplex	NL	Allnex Resins Netherlands BV.		
+
+AKCU		US	Alaska Container Cache LLC.		
+
+AKKU		TR	Akkon Denizcilik Nakliyat ve Ticaret A.S.		
+
+AKLU	K line	JP	Kawasaki Kisen Kaisha Ltd.		
+
+AKMU		RU	Altalogos LLC.		
+
+AKOU	arkonic	HK	Hong Kong Speciality Gases Co., Ltd.		
+
+AKVU		RU	Akvazashita LLC.		
+
+ALAU	ekö pet	RU	Jsc. Ekopet		
+
+ALBU	alblas allbox	NL	Alblas Internationaal Transport BV.		
+
+ALCU	aarti	IN	Aarti Industries Ltd.		
+
+ALCU	acciona	ES	Naviera Armas		
+
+ALDE	air liquide	DE	Air Liquide		
+
+ALEU		NL	Ale Heavylift BV.		
+
+ALEU		US	Air Liquide Electronics		
+
+ALFU	air liquide	TW	Air Liquide Far Eastern Ltd.		
+
+ALGU	air liquide	FR	Air Liquide Helium Services		
+
+ALHU	air liquide	TT	Air Liquide Trinidad&Tobago Ltd.		
+
+ALIU		US	Universal Forest Products Inc.		
+
+ALJU	air liquide	JP	Air Liquide Japan Co., Ltd.		
+
+ALKU		TR	Altun Lojistik A.S.		
+
+ALLU	alconet	NL	Allied Container Network BV.		
+
+ALMU	almar	ZA	Almar Container Investments Inc.		
+
+ALNU		NL	CARU Containers BV.		
+
+ALOU	air liquide	GB	Air Liquide Oil & Gases Services Ltd.		
+
+ALOU	pic leasing	US	Precision International		
+
+ALPU	jumbo	FR	Air Liquide Electronics Materials		
+
+ALRU	almar	ZA	Almar Container Investments Inc.		
+
+ALSU	air liquide	SE	Air Liquide AB.		
+
+ALTU	algeco	DE	VTG AG.		
+
+ALUU	isab	SE	Nordic Bulkers AB.		
+
+ALVU	air liquide	CN	Air Liquide Electronics Materials & Zhang Jia Gang Co., Ltd.		
+
+ALWU	air liquide	KR	Air Liquide Global Electronics Materials		
+
+ALZU	alzamar	ES	Alzamar S.L.		
+
+AMBE	ambrogio	IT	Ambrogio Trasporti S.p.A.		
+
+AMBU		AR	Ambika S.r.l.		
+
+AMCU	cma cgm	FR	CMA CGM		
+
+AMEU		AE	Ace Cranes & Engineering Fz-LLC.		
+
+AMFU	amficon	BM	Textainer Equipment Management Ltd.		
+
+AMGU	amg	AU	Australian Movers Group		
+
+AMGU		CA	Amgas Services Inc.		
+
+AMHU		US	American Highway Inc.		
+
+AMIU	amlf	IN	AMLF Logistics Pvt. Ltd.		
+
+AMLU	aml	AU	Australian Moving Logistics		
+
+AMLU	antillean line	US	Antillean Marine Shipping Corporation		
+
+AMLU	aml	US	Alaska Marine Lines		
+
+AMMU		IT	Ammann Italy SpA.		
+
+AMOU		FI	Amomatic Oy.		
+
+AMPU		SG	Aik Moh Paints & Chemicals Pte. Ltd.		
+
+AMSU	ams	VN	Amasis Shipping Company Ltd.		
+
+AMTU	super shuttle	PH	Asian Marine Transport Corporation		
+
+AMXU		IT	Autamarocchi S.p.A.		
+
+AMZU	amficon	BM	Textainer Equipment Management Ltd.		
+
+ANDU		BE	Andrex Bvba.		
+
+ANEU		IT	Ansaldo Energia SpA.		
+
+ANGU		AO	Angola LNG Ltd.		
+
+ANHU	anhalt	DE	Spedition Horst Anhalt GmbH. & Co. KG.		
+
+ANLU	multicontainer	UY	Analco S.A..		
+
+ANNU	anl	AU	CMA CGM (ex Australian National Line)		
+
+ANOU	air products	NO	Air Products and Chemicals Inc.		
+
+ANSU	akzo nobel	CN	Akzo Nobel Thioplast Chemicals (Taixing) Co., Ltd.		
+
+ANYU	one way	US	One Way Leasing Inc.		
+
+AOCU	octel	GB	Innospec Ltd.		
+
+AOEU	aga	SE	Aga Gas AB.		
+
+AONU	nec	US	NEC Energy Solutions		
+
+AOPU	senko	JP	Senko Co., Ltd.		
+
+AORU		SG	OEG Asia Pacific Pte. Ltd.		
+
+APAU	mackay	AU	Multi Rack Pty. Ltd.		
+
+APAU	apr energy	US	APR Energy LLC.		
+
+APDU	apl	FR	CMA CGM		
+
+APEU	atlas	AE	Al Shirawi Equipment Co. LLC.		
+
+APGU					
+
+APHU	apl	FR	CMA CGM		
+
+APIU	apl	FR	CMA CGM		
+
+APLU	apl	FR	CMA CGM		
+
+APMU	maersk	DK	Maersk Line A/S		
+
+APNU	aqua pharma	NO	Aqua Pharma A/S.		
+
+APRU	apl	FR	CMA CGM		
+
+APSU	cat	US	Altorfer Power Systems Inc.		
+
+APTU					
+
+APVU		JP	Sun Fluoro System Co., Ltd.		
+
+APXU		MY	Apex Global Engineering Sdn. Bhd.		
+
+APXU	apps	CA	APPS Transport Group		
+
+APZU	apl	FR	CMA CGM		
+
+AQAU		RU	Operator LLC.		
+
+ARAU		KR	Ara F&D Co., Ltd.		
+
+ARCU	arcline	MU	ArcLine Shipping /Sunmarine Shipping Services		
+
+ARDU		NL	CARU Containers BV.		
+
+ARFU		ES	Ministerio de Defensa		
+
+ARGU		IL	Maxima Air Separation Centre Ltd.		
+
+ARKU	arkas	TR	Arkas Shipping & Transport		
+
+ARKU	ark				
+
+ARMU	adaptainer	GB	Adaptainer Leasing Ltd.		
+
+ARPU		ES	Equipos Móviles de Campaña ARPA S.A.U.		
+
+ARRM	amg	AU	A+R Removals / Australian Movers Group		
+
+ARRU	argon	GB	Argon Isotank Ltd.		
+
+ARTU		NL	CARU Containers BV.		
+
+ARVU		RU	ARV - Trading Co., Ltd.		
+
+ASAU	asahi	JP			
+
+ASCU		NL	ABS Containers BV.		
+
+ASDT	royal wolf	AU	Aurizon Holdings Ltd.		
+
+ASDU		RU	Vyislanko Tatiana Petrovna Pvt. Ltd.		
+
+ASDV	aurizon	AU	Aurizon Holdings Ltd.		
+
+ASGU	nordic bulkers	SE	Nordic Bulkers AB.		
+
+ASIU	alliance shippers	US	Alliance Shippers Inc.		
+
+ASKC	arimura sangyo	JP	Arimura Sangyo		
+
+ASKS	arimura sangyo	JP	Arimura Sangyo		
+
+ASKU	ask	JP	Asuka Co., Ltd.		
+
+ASKU		US	AS Trucking Group LLC.		
+
+ASLU	aleson	PH	Aleson Shipping Lines Inc.		
+
+ASLU		AE	Alligator Shipping Co. LLC.		
+
+ASMU		RU	Alpas Serviss Ltd.		
+
+ASNU	alisan	TR	Alisan Uluslararasi Tasimacilik ve Ticaret A.S.		
+
+ASPU		NO	Tank Management A/S.		
+
+ASQU	ascanio quimica	ES	Ascanio Química S.A..		
+
+ASRU		SI	Generalny Stab Armady Slovenskej Republiky		
+
+ASSU	sas	IT	Societa Autotrasporti Speciali SpA.		
+
+ASTU		KZ	Almaly TK.		
+
+ASUU		CH	Alcosuisse		
+
+ATAU		FR	Amato Transports Affretement		
+
+ATBE	a2b-online	NL	A2B - Online BV.		
+
+ATBU		DE	A-Tainer & Service		
+
+ATCU	allseas	NL	Allseas Engineering BV.		
+
+ATEU					
+
+ATIU	sati	NL	Eurotainer S.A.		
+
+ATKU		MY	Active Tank Sdn. Bhd.		
+
+ATKU	seatrade	US	CAI International Inc.		
+
+ATLU		NL	Albatross Tank Leasing BV.		
+
+ATOU		FR	Arkema		
+
+ATRF	aurizon	AU	Aurizon Holdings Ltd.		
+
+ATRU		PL	Anel Mitoraj Andrzej i Motoraj Elzbieta		
+
+ATSU		AU	Australian Nuclear Science & Technology Organisation		
+
+ATSU		CA	ATS Containers Inc.		
+
+ATSU	ats				
+
+ATTU	ati	AE	ATI Freight LLC.		
+
+ATVU	altermij	NL	Peacock Container BV.		
+
+ATXU	ats	US	Anderson Trucking Services		
+
+AUCU	austrans	AU	Austrans Container Service		
+
+AUGU	augustin	AT	Quehenberger Freight GmbH.		
+
+AUSM	amg	AU	Aussiemove / Australian Movers Group		
+
+AUSU		AU	CEC Systems Pty. Ltd.		
+
+AUSU	austrans	AU	Austrans Container Service		
+
+AUTU	autozat	PL	Zaklad Transportu Samochodowego „Autozat” Sp. z.o.o.		
+
+AVCU		US	Amvac Chemical Corporation		
+
+AVGU		RU	Avrora Logistics		
+
+AVHU		RU	O.A.O. Atomspetstrans		
+
+AVIU	helisota	LT	Helisota Ltd.		
+
+AVLU	allied	US	Allied Van Lines Inc.		
+
+AVLU		HK	Allied Vantage Leasing Ltd.		
+
+AVNU		IN	Avana Logistek Ltd.		
+
+AVRU		LV	Alpa Vagons S.I.A.		
+
+AVSU	rec silicon	US	Advanced Silicon Materials		
+
+AWIU		DE	Alfred-Wegener-Institut		
+
+AWOU		FI	Oy Woikoski		
+
+AWSU	aws	GB	AW Ship Management Ltd.		
+
+AWTU	opw	DE	OPW Ingedients GmbH.		
+
+AWVU		VN	Air Water Vietnam Co., Ltd.		
+
+AWXU	alaska west express	US	Alaska West Express Inc.		
+
+AXBU	axcessbox	CA	Axcess Box Mobile Storage		
+
+AXEU	asl	HK	Asean Seas Line Co., Ltd.		
+
+AXIU	axis	BM	Textainer Equipment Management Ltd.		
+
+AXSU	axsun	US	Axsun Group		
+
+AYTU		TR	Oztiryakiler Madeni Esya San. Tic. A.S.		
+
+AZEU		AZ	Eurasia Container		
+
+AZKU		NG	Socièté des Mines d'Azelik S.A.		
+
+AZLU	anzdl	DE	Hapag-Lloyd AG. (ex Australian-New Zealand Direct Line)		
+
+AZTU		CY	Protaxon Trading Ltd.
+BABJ	babl	US	Boyer Alaska Barge Lines		
+
+BACU	balearia cargo	ES	Eurolinies Maritimes S.A.- Balearia		
+
+BAEU		US	BAE Systems		
+
+BAFU	bulkhaul	GB	Bulkhaul Ltd.		
+
+BAGU					
+
+BAJU		ID	Kementrian Perhubugan		
+
+BAKU		MN	Badrakh Energy LLC.		
+
+BAMU	bäumle	DE	Spedition Bäumle GmbH.		
+
+BANU		IR	Safbon Pars Compressor Co.		
+
+BAPU		AU	BOC Australia Ltd.		
+
+BARU		BB	Barbados Bottling Co. Ltd.		
+
+BASD	basf	DE	BASF SE.		
+
+BASU		GB	British Antarctic Survey		
+
+BATU	balktrade	NL	Container Boxes 4 Sale		
+
+BAXU	bay lines	AE	Sunmarine Shipping Service LLC.		
+
+BAYU	bayer	DE	Chemion Logistik GmbH.		
+
+BBBU		US	BOSS Equipment Inc.		
+
+BBCU	bullbox	ES	Bullbox Contenedores y Embalajes Normalizados S.A.		
+
+BBRU		RU	Itaka Trans		
+
+BBSU		RU	Spectranscontainer LLC.		
+
+BBTU	bress bulk	DE	Bress Mundial Container Service GmbH.		
+
+BBUU		HK	BSL Containers Ltd.		
+
+BBXU		DE	BestBox - Containerhandel e.K.		
+
+BBZU		HK	BSL Containers Ltd.		
+
+BCAU	merchant cement&lime	AU	Merchant Cement & Lime Pty. Ltd.		
+
+BCCU	bulkconcept	CH	Bertschi AG.		
+
+BCDU	belarus	BY	Byelorussian Railway		
+
+BCEU		US	Baudin Consulting Equipment		
+
+BCGU		DE	Bloedorn Container GmbH.		
+
+BCHU	braun	DE	Braun Container Handels GmbH.		
+
+BCIU		JO	Al-Baha Company for Caustic Chlorine Industry		
+
+BCKU	flex-box	CO	Flex-Box Columbia S.A.S.		
+
+BCLU	bcl	BM	Bermuda Container Line Ltd.		
+
+BCMU					
+
+BCNU		NO	BNS Container A/S.		
+
+BCOU		SR	Cobo Construction NV.		
+
+BCSU		RU	Baltic Container Service Ltd.		
+
+BCXU		ES	Barcelona Container Service Depot S.L.		
+
+BDCU		NL	Beldock Containers BV.		
+
+BDCU	bd	NL	BD Containers BV.		
+
+BDSU	bulk distributors	MY	Bulk Distributors Sdn. Bhd.		
+
+BEAU	beacon	US	Beacon Intermodal Leasing LLC.		
+
+BECU	eurotainer	NL	Eurotainer S.A.		
+
+BEGU		DE	BEC GmbH.		
+
+BELU	bell-mar	IL	Bell - Mar Shipping Ltd.		
+
+BERM	bermes	DE	Gebr. Bermes Spedition GmbH.		
+
+BERU		US	Berg Manufacturing		
+
+BERU	nedvan	NL	UTS van den Berg Verhuizingen BV.		
+
+BESU	bestchem	HK	Bestchem Group Holding Co., Ltd..		
+
+BETU		AU	Betta Storage Containers		
+
+BEXU	blue express	JP	Blue Express Inc.		
+
+BEZU		PL	Bezev Sp. Z.o.o.		
+
+BFFU		BM	Bahamas Ferries Ltd.		
+
+BFPU	intermodal solutions	AU	Intermodal Solutions Group Pty. Ltd.		
+
+BFRU		GB	Maybury Trade LLP.		
+
+BFSU		US	H2O Inc.		
+
+BFWU					
+
+BGBU	bertschi	GB	Bulktainer Rental & Finance Ltd.		
+
+BGFU	bg freight line	NL	B.G. Freight Line BV.		
+
+BGGU	bruno	IT	Bruno S.r.l.		
+
+BGHU		MY	HRC Shipping Sdn. Bhd.		
+
+BGKU		DE	Bayer Pharma AG.		
+
+BGLU	bring	NO	Posten Norge A/S.		
+
+BGRU		DE	Bundesanstalt für Geowissenschaften und Rohstoffe		
+
+BGSU		GB	British Geological Survey		
+
+BHCU	bridgehead	GB	Bridgehead Container Services Ltd.		
+
+BHFU		CN	Befar Group Co., Ltd.		
+
+BHLU		NL	Big Lift Shipping BV.		
+
+BHSU		QA	Buzwair Gases		
+
+BHTU	baohua	CN	Zhenjiang Baohua Logistics Co., Ltd.		
+
+BHTU	baker hughes	US	Baker Hughes Inc.		
+
+BIBU		DE	Corsyde International GmbH. & Co. KG.		
+
+BICU		FR	Unauthorised prefix (on B.I.C. authority)		
+
+BIDU	bertschi	CH	Bertschi AG.		
+
+BIIU		JP	Wajimaya Senrei Co., Ltd.		
+
+BIOU		MT	Chemplus Ltd.		
+
+BIRU	b	AE	Bukara UAE		
+
+BISU	bis	AU	Bis Industries Ltd.		
+
+BISU	bisl	BM	Bermuda International Shipping Ltd.		
+
+BISU	biendong	VN	Bien Dong Shipping Co., Ltd.		
+
+BITU	tanktrader.net	NL	Meeberg Container Service BV.		
+
+BJCU		KR	BoxJoin Corporation		
+
+BJHU	baijin	CN	Shanghai Baijin Chemical Group Co., Ltd.		
+
+BJXU		CN	Beijing Starget Chemicals Co., Ltd.		
+
+BKBU	broekema	AE	Van den Bosch dmcc		
+
+BKDU	tsenki	RU	Center Operations of Space Groudbase Infrastructure		
+
+BKGU		DE	Bundesambt für Kartographie und Geodasie		
+
+BKMU		RU	Barents Container Management Ltd.		
+
+BKWU		NL	Royal Boskalis Westminster NV.		
+
+BLEU		SI	Belinka perkemija d.o.o.		
+
+BLIU	boxtrans	IN	Boxtrans Logistics (india) Services Pvt. Ltd.		
+
+BLJU	balaji	AE	Avana Global Fzco		
+
+BLKU	bulkhaul	GB	Bulkhaul Ltd.		
+
+BLNU		RU	Bridge Logistics LLC.		
+
+BLPU	baltic	PK	Baltic Shipping Pvt. Ltd.		
+
+BLRU	belintertrans	BY	Belintertrans		
+
+BLSU		TR	Tetra Leasing & Trading Inc.		
+
+BLTU	balticon	PL	Balticon S.A.		
+
+BLXU	box lines	PT	Empresa Navegacao Madeirense Lda.		
+
+BLZU	blpl	SG	BLPL Logistics (Singapore) Pte. Ltd.		
+
+BMCU		US	Biomass Controls LLC.		
+
+BMLU	bernuth	US	King Ocean Services Ltd.		
+
+BMOU	beacon	US	Beacon Intermodal Leasing LLC.		
+
+BMPU		PG	Bismark Maritime Ltd.		
+
+BMRU		RU	Biznes Masshtab Ltd.		
+
+BMSU	bmc line	AE	BMC Line Shipping Services LLC.		
+
+BMTU	bmt	ID	PT. Bumimetak Terminalindo		
+
+BMUU	bauer	DE	Bauer Umwelt GmbH.		
+
+BNAU		US	Burlington Northern & Santa Fé Railway Co.		
+
+BNBU	booth	AU	Booth Transport Pty. Ltd.		
+
+BNBU		AU	Transolve Global Pty. Ltd.		
+
+BNBU	daabon	CO	Daabon Organic		
+
+BNDU		RU	Eurobitumen LLC.		
+
+BNFL		GB	Sellafield Ltd.		
+
+BNGU		CA	Superior International Imports		
+
+BNRU		US	Burlington Northern & Santa Fé Railway Co.		
+
+BNSU	bns	NO	BNS Agencies Container Utleie		
+
+BNUU		US	Burlington Northern & Santa Fé Railway Co.		
+
+BNXU		US	Burlington Northern & Santa Fé Railway Co.		
+
+BOBU		GB	Chemtura Corporation		
+
+BOCU	linde	US	Linde LLC. (ex BOC Gases)		
+
+BODU	bode	DE	Spedition Bode GmbH.& Co. KG.		
+
+BOGU		BE	BCT International NV.		
+
+BOHU		US	BOH Environmental LLC.		
+
+BOIU	boxit	DK	Escot A/S.		
+
+BOLU	grieg star shipping	NO	Grieg Star Shipping AS.		
+
+BOLU	boluda	ES	Boluda Corporación Marítima		
+
+BONU	bond	VG	Bond International Group Ltd.		
+
+BOOU	wortmann tamaris	DE	Bobe Spedition GmbH.		
+
+BORU	maritime	GB	Borchard Lines Ltd.		
+
+BOTU	bolt	SG	Bulk Oil and Liquid Transport Pvt. Ltd.		
+
+BOTU	bo-rent	NL	Bo-Rent Verhuur BV.		
+
+BOXU	bulkhaul	GB	Bulkhaul Ltd.		
+
+BPAU		AU			
+
+BPIU	bulk pioneer	CN	Bulk Pioneer Logistics Co., Ltd.		
+
+BPMU	bp mckeefrey	GB	BP McKeefrey Ltd.		
+
+BPTU	braid	GB	Braid Projects Global Distribution		
+
+BQCU		US	Bechtel Oil Gas & Chemicals Inc.		
+
+BRBU		DE	Sasol Germany GmbH.		
+
+BRCU	qin-in ferry	CN	Qinhuangdao Qin-in Ferry Co., Ltd.		
+
+BRDU	bredenoord	NL	Bredenoord bv.		
+
+BREU		IT	S.A.T.I. S.r.l..		
+
+BREU	bredenoord	NL	Bredenoord BV.		
+
+BRFU	bulkhaul	GB	Bulkhaul Ltd.		
+
+BRGU	borouge	AE	Abu Dhabi Polymers Company		
+
+BRHU		BE	Brenntag NV.		
+
+BRKU	bulkhaul	GB	Bulkhaul Ltd.		
+
+BRNU	brenntag	FR	Locatank S.A.		
+
+BROU		FR	T.S.B. SARL.		
+
+BRSK		AU			
+
+BRTU	samat	GB	Groupe Samat UK Ltd.		
+
+BRZU		US	Container Express Corporation		
+
+BSAU		HK	Blue Sky Logitrade Ltd.		
+
+BSBU	bigsteelbox	CA	Big Steel Box Ltd.		
+
+BSBU	bridgestone	JP	Bridgestone Corporation		
+
+BSBU	bsb				
+
+BSGU		CN	Shanghai Baosteel Gases Co., Ltd.		
+
+BSGU		ID	PT. BSG Gases		
+
+BSHB	cronos	BB	Seaco S.r.l. (for Toll International)		
+
+BSIU	blue sky	GB	Blue Sky Intermodal (UK) Ltd.		
+
+BSKU		UA	Bodex-Ukraine Ltd.		
+
+BSLR		HK	BSL Containers Ltd.		
+
+BSLU		HK	BSL Containers Ltd.		
+
+BSLU	boxit	DK	Boxit A/S.		
+
+BSPC	budget self pack	AU	Budget Self Pack Containers		
+
+BSPD	cronos	BB	Seaco S.r.l. (for Toll International)		
+
+BSPU	budget self pack	AU	Budget Self Pack Containers		
+
+BSSU		IN	Bhavani Shipping Services (I) Pvt. Ltd.		
+
+BSTG	cronos	BM	Seaco S.r.l. (for Toll International)		
+
+BSTU	best	NL	Best Containers V.O.F.		
+
+BSVU		SG	BSV Shipping Agencies Pte. Ltd.		
+
+BSXU		BE	Besix NV/SA		
+
+BTCU					
+
+BTEU	bruhn	DE	Bruhn Spedition GmbH.		
+
+BTGU		GB	Brenntag UK Ltd.		
+
+BTIU	bison	CA	Bison Transport Inc.		
+
+BTLU	bulktainerlogistics	GB	Bulk Tainer Logistics Ltd.		
+
+BTRN		AU			
+
+BTRU	botrans.ru	RU	ooo. Botrans		
+
+BTSU	system house	BE	BTS Tank Solutions NV.		
+
+BTTU	stinnes	DE	DB Cargo BTT GmbH.		
+
+BTTU	btt	NL	Barge Terminal Tilburg BV.		
+
+BUCU	g.buchner	DE	Georg Buchner Internationale Spedition GmbH.		
+
+BUDU		CA	Cameco Corporation		
+
+BUKU	bertschi ag.	GB	Bulktainer Rental & Finance Ltd.		
+
+BULU	bulkglobal	GB	Bulkglobal Logistics Ltd.		
+
+BUNU	b. united	US	B. United International Inc.		
+
+BUNU		NZ	Bundi Systems International Ltd.		
+
+BURU		CN	BAL Container Line Co., Ltd.		
+
+BUSU	büteführ	DE	Büteführ und Sohn GmbH. & Co. KG..		
+
+BUTU	brointermed	PT	Beautiful Containers Trading e Servicos Lda.		
+
+BUZU	buzzatti	IT	Buzzatti Trasporti Srl.		
+
+BVHU		NL	Cryogenic Container Solutions BV.		
+
+BVIU	taby	BM	Stolt Tank Containers Leasing Ltd.		
+
+BVNU		IT	Beneventi S.r.l.		
+
+BWCU	bay	DE	Bay Internationale Chemiespedition		
+
+BWLU		SG	Blue Water Lines Pte. Ltd.		
+
+BWPU		DE	Logistikzentrum der Bundeswehr		
+
+BWTU		NL	Damen Green Solutions BV.		
+
+BXDU		DE	BoxDirect AG.		
+
+BXLU		IT	Sicom SpA.		
+
+BXNU	boxman	NZ	Boxman (New Zealand) Ltd.		
+
+BXRU	boxtainer	GB	Titan Arcticstore A/S.		
+
+BXSU	blue express	CN	Blue Express (Shanghai) Intl. Freight Forwarding Co., Ltd.		
+
+BXUU		NZ	Boxman (New Zealand) Ltd.		
+
+BXXU		NZ	Boxman (New Zealand) Ltd.		
+
+BYMU		EE	Rodelinda PLC.		
+
+BYRU		AE	Byrne Equipment Rental LLC.		
+
+BZTU		NL	Box2Trade BV.
+CAAU	cai	US	CAI International Inc.		
+
+CABU		IN	Chakiat Agencies Pvt. Ltd.		
+
+CADU	ccl	DK	Maersk Line A/S		
+
+CAEU		NL	CARU Containers BV.		
+
+CAFU		IT	Cisaf Srl.		
+
+CAIU	cai	US	CAI International Inc.		
+
+CAKM	teckcominco	CA	Teck Mining Company Ltd.		
+
+CAKU	camellia line	JP	Camellia Line Co., Ltd.		
+
+CAMU	mpca	US	MGC Pure Chemicals America Inc.		
+
+CAMU	camellia line	JP	Camellia Line Co., Ltd.		
+
+CANU	modcan	CA	Modcan Solutions / Asher Bentley Holdings		
+
+CAPU		GB	Cape Container Line (UK) Ltd.		
+
+CARU	carburos	ES	Carburos Metalicos		
+
+CARU	caru	NL	CARU Containers BV.		
+
+CARU	carim	JP	Carim Engineering Corporation		
+
+CASU	cast	DE	Hapag Lloyd AG. (ex Cast Group)		
+
+CATU		NL	CARU Containers BV.		
+
+CAUU		DK	Campas Containers		
+
+CAXU	cai	US	CAI International Inc.		
+
+CAZU	cai	US	CAI International Inc.		
+
+CBCU		GB	Container Brokerage Company Ltd.		
+
+CBFU	chiquita	US	Chiquita Brands International		
+
+CBGU		HT	Carbogaz S.A.		
+
+CBHU	cosco	HK	Florens Container Services Co., Ltd.		
+
+CBIU		US	Chicago Bridge & Iron Company NV.		
+
+CBKU		BY	Belaruskali JSC.		
+
+CBLU	pan star				
+
+CBLU	cbox	NL	CBox Containers BV.		
+
+CBMU		RU	ContLease		
+
+CBNU		FR	Cubner S.A.S.		
+
+CBOU		SR	Cobo Construction NV.		
+
+CBPU	cbsl	US	CBSL Transportation Services Ltd.		
+
+CBRU	cbr	DE	Cölner Benzin Raffinerie Vertriebs GmbH.		
+
+CBRU		AU	Canberra Containers		
+
+CBTU		CH	Cont - Asphalt Ltd.		
+
+CBXU	cbox	HK	CBOX Containers Asia Ltd.		
+
+CCAU		CA	Cement Cartage Company Ltd.		
+
+CCBU	colemans	AU	RJ. Coleman Transport Pty. Ltd.		
+
+CCCU		DE	ConRail Container Survey & Sales GmbH.		
+
+CCCU	colemans	AU	RJ. Coleman Transport Pty. Ltd.		
+
+CCDU		DE	Conro Containers GmbH.		
+
+CCEU		HK	Juntai International Container Co., Ltd.		
+
+CCGU	catu	CH	Catu Containers S.A.		
+
+CCHU	growhow	BE	Yara Tertre S.A/NV.		
+
+CCIU	coogee chemicals	AU	Coogee Chemicals Pty. Ltd.		
+
+CCLU	china shipping	HK	Cosco Shipping Development (Asia) Co., Ltd.		
+
+CCMU		IT	Mercitalia Rail Srl.		
+
+CCOU		US	A-Gas Americas (Refrigerants & Carbon Offsets)		
+
+CCRU	ccr	NL	Eurotainer S.A.		
+
+CCSU		DK	Servial CC. A/S.		
+
+CCTU		GB	Craigs container company		
+
+CCTU	colemans	AU	RJ. Coleman Transport Pty. Ltd.		
+
+CCUU		PA	M/S Hikaru Line Inc.		
+
+CCXU	ccr	FR	CCR S.A.S.		
+
+CCYU		CY	Chimi Art (Cyprus) Ltd.		
+
+CDAU	canadian tire	CA	Canadian Tire Co., Ltd.		
+
+CDAU	cda	TR	CDA Lojistik A.S.		
+
+CDDU		DK	Container Providers International ApS.		
+
+CDKU	containerland	DK	Containerland Danmark		
+
+CDMU		DE	Container Depot München GmbH.		
+
+CDNU		FR	Companie des Iles du Nord		
+
+CDPU	crp saban	AR	Containers Rio de la Plata		
+
+CDSU		CA	Cirque du Soleil Inc.		
+
+CEAU		FR	TN International		
+
+CECU		IL	Bromine Compounds Ltd.		
+
+CECU		HK	China Eastern Containers Ltd.		
+
+CECU		FR	CCR Containers S.A.S.		
+
+CEFU		JP	Solar Energy Factory Co., Ltd.		
+
+CEIU		CA	Conteneurs Experts sd.		
+
+CELU	consort	PG	Consort Express Lines Ltd.		
+
+CEMU	chemion	DE	Chemion Logistik GmbH.		
+
+CENU	ce	JP	Chubu Ekiyu Co., Ltd.		
+
+CENU		ES	Cuadros Electricos Nazerenos S.L.		
+
+CEOU		US	Textainer Equipment Management Ltd.		
+
+CEPU		IT	C.E.P. S.r.l.		
+
+CERU	cory	GB	Riverside Resource Recovery Ltd.		
+
+CESU	consent	US	CAI International Inc.		
+
+CETU		GR	Carel S.A.		
+
+CEUU		HK	China Eastern Containers Ltd.		
+
+CEXU	chemical express	IT	Chemical Express Autotrasporti		
+
+CEZU		HK	China Eastern Containers Ltd.		
+
+CFBU		DE	Chemische Fabrik Karl Bucher GmbH.		
+
+CFCU		CA	Department of National Defence		
+
+CFHU		CN	Shandong Conglin Fruehauf Automobile Co., Ltd.		
+
+CFMU		MD	State Administration of Railway Transport of Moldavia		
+
+CFQU	cofc	US	COFC Logistics LLC.		
+
+CFRU	cf&s	RU	CF&S Russia Ltd.		
+
+CFSU	classic freight	CA	Classic Freight Systems Ltd.		
+
+CFUU		HK	China Eastern Containers Ltd.		
+
+CFXU		CR	Praxair Costa Rica S.A.		
+
+CFZU		HK	China Eastern Containers Ltd.		
+
+CGAU		AU	Customised Gas Australia Group Pty. Ltd.		
+
+CGBU					
+
+CGBU	coregas	AU	Coregas Pty. Ltd.		
+
+CGCU	cab	IT	C.A.B. Cooperativa Autotrasportatori a.r.l.		
+
+CGEU		PL	P.u.h. Center-Gaz Zbigniew Janas		
+
+CGGU		NO	Seabed Geosolutions AS.		
+
+CGHU	cma cgm	FR	CMA CGM		
+
+CGIU		US	ConGlobal Industries Inc.		
+
+CGKU		HK	CGK International Ltd.		
+
+CGLU		FR	Millennium Inorganic Chemicals Thann S.A.S.		
+
+CGMU	cma cgm	FR	CMA CGM		
+
+CGOU		CG	Air Liquide Congo		
+
+CGRU		ES	Cargor Bizkaia S.L.		
+
+CGSU	pacifica	NZ	Pacifica Shipping (1985) Ltd.		
+
+CGSU	sapio	IT	Sapio Produzione Idrogeno Ossigeno S.r.l.		
+
+CGTU	cma cgm	FR	CMA CGM		
+
+CHCU		PA	Challenge Container Logistics Inc.		
+
+CHDU	cheminova	DK	Cheminova Agro		
+
+CHEU		RU	Chemresurs LLC.		
+
+CHEU	chess	AU	Chess Moving Australia Pty. Ltd.		
+
+CHFU	stolt	BM	Stolt Tank Containers Leasing Ltd.		
+
+CHHU	opdr	DE	CLH Container Logistic Hamburg GmbH. & Co. KG.		
+
+CHIU	centrans	CN	Centrans International Marine Shipping Co., Ltd.		
+
+CHIU	capital	BM	Textainer Equipment Management Ltd.		
+
+CHIU	clean harbors	US	Clean Harbors Inc.		
+
+CHLL	cahill	AU	Cahill Transport		
+
+CHLU	chl	ES	Marguisa Shipping Lines S.L.U.		
+
+CHMU	albemarle	DE	Albemarle Germany GmbH.		
+
+CHPU	chipholbrok	PL	Chinese-Polish Joint Stock Shipping Co.		
+
+CHQU		BR	Chembro Quimica Ltda.		
+
+CHRU		US	Chemours Company FC. LLC.		
+
+CHSU		DE	CHS Container Handel GmbH.		
+
+CHTU		CH	Chiresa AG.		
+
+CHTU		HK	Coherent Box International Co., Ltd.		
+
+CHTU	crc-evans	US	CRC- Evans Pipeline International		
+
+CHTU	chota	JP	Chota Co., Ltd.		
+
+CHUU	loginet	JP	Loginet Japan Co., Ltd.		
+
+CHVU	chv	AT	Container Handels und Vermietungs GmbH.		
+
+CHXU	chemco	NO	Chemco A/S.		
+
+CIAU		IT	Bourgey Montreuil Italia S.r.l.		
+
+CIBU		CH	Cont - Asphalt		
+
+CICU	cimc enric	CN	China International Marine Containers (Group) Ltd.		
+
+CIGU		FR	EDF cig		
+
+CIIU		US	Container - it		
+
+CILU		GB	Cargostore Worldwide Trading Ltd.		
+
+CILU	petrocom	IR	Oil Industry Investment Co.		
+
+CIMU	cimat	ES	Container Investment Manufacturer Auto Motion		
+
+CIMU		CN	Hong Cheng Logistics Co., Ltd.		
+
+CIOU		IT	Centro Internazionale Studi Containers (C.I.S.Co.)		
+
+CIPU	petro	AU	Petro Industrial Ltd.		
+
+CIPU		US	CAI International Inc.		
+
+CIRU		IT	Commissionaria Intertrasporti		
+
+CISU	consar	IT	CON S.A.R. soc. coop. cons.		
+
+CISU	containerwest	CA	ContainerWest Manufacturing Ltd.		
+
+CJKU		KR	CJ Korea Express		
+
+CJRU		JP	China Japan International Ferry Co., Ltd.		
+
+CJTU	vandenbosch.com	NL	L&T BV.		
+
+CJXU	chunjee	KR	Chunjee Shipping Co., Ltd.		
+
+CJYU		CN	Chongqing Transportation Holding (Group) Co., Ltd.		
+
+CJZU	chinjif	CN	China Japan International Ferry Co., Ltd.		
+
+CKBU		GB	CedarKnight Capital Ltd.		
+
+CKCU		HK	Solsino Ltd.		
+
+CKEU		CN	Celerity Tank Logistics (China) Ltd.		
+
+CKFU	lyg c-k ferry	CN	Lianyungang C-K Ferry Co., Ltd.		
+
+CKLU		IN	Ceekay Shipping & Marine Services Ltd. (UK)		
+
+CKLU	ck line	KR	CK Line Co., Ltd.		
+
+CKNU		DE	Knauf Gips KG.		
+
+CKSU	cks	HK	Chu Kong Transshipment & Logistics Co., Ltd.		
+
+CKSU	ck line	KR	CK Line Co., Ltd.		
+
+CKTU	coolworld	NL	Coolworld International BV.		
+
+CKXU	cakeboxx	US	Cakeboxx Technologies LLC.		
+
+CLAR		DE	Clariant Produkte (Deutschland) GmbH.		
+
+CLCU		CZ	Caru Praha S.r.o.		
+
+CLDU	cobelfret	BE	CLdN Cargo NV.		
+
+CLEU		US	Clean Harbors Environmental Services Inc.		
+
+CLFU		AU	Intermodal Solutions Group Pty. Ltd.		
+
+CLGU	bulktainer	US	CLX Logistics LLC.		
+
+CLHA	clean harbors	US	Clean Harbors Inc.		
+
+CLHU	capital	BM	Textainer Equipment Management Ltd.		
+
+CLIU	cogefrin	IT	CLBT Srl.		
+
+CLJU		AE	CLK Transport Fze.		
+
+CLKU	calt	KR	City Airport, Logistics & Travel		
+
+CLLU	cassilon	GB	Cassilon Liquid Logistics		
+
+CLOU	clou	BB	Seaco S.r.l.		
+
+CLPU		IN	Cargosol Logistics Pvt. Ltd.		
+
+CLQU		GB	CliQ Container Trading Ltd.		
+
+CLRU	clarke	CA	Clarke Inc.		
+
+CLRU		IT	C.L.T Soc. Coop A.R.L.		
+
+CLSU	caravel	IN	Caravel Shipping Services Private Ltd.		
+
+CLTU		IT	Sogeco International S.A.		
+
+CLVU		GB	Cleveland Containers		
+
+CLWU		FI	Conlog oy.		
+
+CLXU	container leasing 45	GB	Container Leasing UK Ltd.		
+
+CMAU	cma cgm	FR	CMA CGM		
+
+CMCU	crowley	US	Crowley Maritime Corporation		
+
+CMEU	spartank	PL	Spartank Sp. z.o.o.		
+
+CMGU		ES	Cemengal S.A.		
+
+CMIU		US	Intermobile Container LLC.		
+
+CMLU	chang myung liners	KR	Chang Myung Liners Co., Ltd.		
+
+CMLU	camellia line	JP	Camellia Line Co., Ltd.		
+
+CMLU		KR	Jaebum Co., Ltd.		
+
+CMNU	comanav	MA	CMA CGM (ex Compagnie Marocaine de Navigation)		
+
+CMOU		RU	Cryor LLC.		
+
+CMPU	campioni	IT	Campioni Logistica Integrata S.r.l.		
+
+CMRU	camellia line	JP	Camellia Line Co., Ltd.		
+
+CMRU		CM	Air Liquide Cameroun		
+
+CMTU		DK	IJ-Container aps.		
+
+CMTU	cmt				
+
+CMUU	canmar	DE	Hapag Lloyd AG. (ex Canada Maritime)		
+
+CMZU		MZ	Cornelder de Mocambique S.A.		
+
+CNAU		FR	Technic France		
+
+CNCT	cnc	JP	Carry Net Co.		
+
+CNCU	cnc line	TW	CMA CGM		
+
+CNEU		CA	Canadian National Railway		
+
+CNEU	cai	US	CAI International Inc.		
+
+CNGU		CA	Canadian National Railway		
+
+CNIU	ccni	DK	Maersk Line A/S		
+
+CNNU	cilc	CN	China International Container Leasing		
+
+CNOB	basf				
+
+CNPU		CA	Canadian National Railway		
+
+CNRU	cn intermodal	CA	Canadian National Railway		
+
+CNSU	cns	US	Spinnaker Leasing Corporation		
+
+CNSU		CA	Canadian National Railway		
+
+CNWU		PL	Babra-Pol Szymon Rzepecki		
+
+CNXU		FR	Ifremer		
+
+CNZU		NZ	A1 Containers Ltd.		
+
+COAU		FR	Unauthorised prefix (on B.I.C. authority)		
+
+COBU	sonangol p&p	AO	Sonagol P&P Angola		
+
+COCU	coolboxx	NL	Samskip Multimodal Container Logistics BV.		
+
+CODA	codognotto	IT	Codognotto Italia SpA.		
+
+CODU	crossover	SG	Crossover Asset Management (Singapore) Pte. Ltd.		
+
+CODU		AU	Intermodal Solutions Group Pty. Ltd.		
+
+COFU					
+
+COGU		FR	Orano TN-LMC		
+
+COLU	oeg	SG	OEG Offshore Pte. Ltd.		
+
+COMB	combipass	FR	Combipass S.A.S.		
+
+COMU		AU	Commonwealth Steel Company Pty. Ltd.		
+
+CONU	conservator	NL	Conservator s.i.o. BV.		
+
+CONU	contec	JP	Contec Co., Ltd.		
+
+CONU		US	Container of America LLC.		
+
+COOU	co*operator	DE	Co-operator Container Transport & Logistic GmbH.		
+
+COPU		BE	Maxx intermodal systems		
+
+COQU	concisa	ES	Concisa Cotenedores Cisterna S.A.		
+
+CORU	conteuro	NL	CARU Containers BV.		
+
+COSU	crossover	SG	Crossover Asset Management (Singapore) Pte. Ltd.		
+
+COWU		US	Inguran LLC. Dba. Sexing Technologies		
+
+COXU		LK	Ceylon Oxigen Ltd.		
+
+COYU		GB	Container Projects LLP.		
+
+COYU		GB	Containental Ltd.		
+
+COZU		DK	Maersk Line A/S		
+
+CPAU	combipass	FR	Combipass S.A.S.		
+
+CPBU		HK	Canons Park Equipment Management Inc.		
+
+CPCU		US	Canons Park Equipment Management Inc.		
+
+CPDU		US	IES Downstream LLC.		
+
+CPFU		IT	Futura Enterprise S.r.l.		
+
+CPGU	pelichet	CH	C. Pelichet S.A.		
+
+CPGU	carrier transicold	NL	Carrier Reefers & Gensets BV.		
+
+CPHU	chr hansen	DK	Chr. Hansen A/S.		
+
+CPIU	cpi	DK	Container Providers International		
+
+CPLU		NL	ContainerPlus+ BV.		
+
+CPMU		US	Canons Park Equipment Management Inc.		
+
+CPPU	cp	CA	Canadian Pacific Railway Company		
+
+CPSU		DE	Hapag Lloyd AG. (ex CP Ships)		
+
+CPTU		RU	Tk. SRT		
+
+CPWU		DK	Container Providers International ApS.		
+
+CPXU	cpx	CA	Coastal Pacific Xpress Inc.		
+
+CQLU	topchains	HK	TopChains International Logistics Co., Ltd.		
+
+CRBU		CN	China Railway Tielong Container Logistics Co., Ltd.		
+
+CRDU	cardo	DE	Cardo Facility and Logistic Services GmbH.		
+
+CREU	c.r. england	US	C.R. England Global Transportation		
+
+CREU	crestchic	GB	Crestchic Ltd.		
+
+CRFU		IT	C.R.Technology Systems SpA.		
+
+CRGU	cargotainer	DE	Cargotainer GmbH.		
+
+CRHU		RO	Cros Construct Srl.		
+
+CRIU		CA			
+
+CRJU	crimt	CN	China Railway International Multimodal Transport Co., Ltd.		
+
+CRKU	richter	DE	Curt Richter se.		
+
+CRLU	carlisle	US	SeaCube Container Leasing Ltd.		
+
+CRMU		KR	Ace Engineering & Co., Ltd.		
+
+CRMU	carim	JP	Carim Engineering Corporation		
+
+CRNU	crown	HK	Crown Relocations		
+
+CRNU		ID	PT. Indonesia Ruipi Nickel and Chrome Alloy		
+
+CROU		KR	Cryos Co., Ltd.		
+
+CRPU		PT	Ciimar Renting SA.		
+
+CRRU		US	Crimson Shipping Company Inc.		
+
+CRRU	cr	AU	Container Refrigeration		
+
+CRSU	cr	AU	Container Refrigeration		
+
+CRSU	cronos	BB	Seaco S.r.l.		
+
+CRTU	cronos	BB	Seaco S.r.l.		
+
+CRWU	crown	HK	Crown Relocations		
+
+CRXU	cronos	BB	Seaco S.r.l.		
+
+CRYU	cryotainer	NL	Cryo Rental BV.		
+
+CSAU	corsa	MX	Corporativo de Servicios Ambientales S.A. de C.V.		
+
+CSBU		PH	Cebu Sea Charterers Inc.		
+
+CSCU		AE	Container Solutions Co. LLC.		
+
+CSFU	containerships	FI	Containerships Ltd.Oy.		
+
+CSFU	china star	CN	China Star FluoroChemical Co., Ltd.		
+
+CSHU	csh	US	Container Storage Company of Hawaii Ltd.		
+
+CSHU		GB	Container Sales & Hire Ltd.		
+
+CSIU		US	CSI Group LLC.		
+
+CSLL	csl	NZ	Container Sales & Leasing Ltd.		
+
+CSLU	china shipping	HK	Cosco Shipping Development (Asia) Co., Ltd.		
+
+CSMU		ES	Castellón Shipping S.A.		
+
+CSNU	cosco	CN	Cosco Shipping Lines Co., Ltd.		
+
+CSOU	containerships	FI	Containerships Ltd.Oy.		
+
+CSPU		DK	Containerspot A/S.		
+
+CSPU		SG	Container Specialist Pte. Ltd.		
+
+CSPU	intermodal solutions	AU	Intermodal Solutions Group Pty. Ltd.		
+
+CSQU	contship	DE	Hapag Lloyd AG. (ex Contship containerlines)		
+
+CSRU		SG	Container Specialist Pte. Ltd.		
+
+CSRU	canstore	CA	ContainerWest Manufacturing Ltd.		
+
+CSRU		IT	Cryo Service S.r.l.		
+
+CSSU		GB	Container Sales (UK) Ltd.		
+
+CSTU		DE	Container Service Friedrich Tiemann GmbH & Co. KG.		
+
+CSUU		DE	Container Speditions und Transport GmbH.		
+
+CSVU	csav	DE	Hapag Lloyd AG. (ex Compania Sudamericana de Vapores S.A.)		
+
+CSXU	csx	US	CSX Transportation Inc.		
+
+CSXU	container storage	US	Container Storage		
+
+CSZU		US	Container Storage		
+
+CTAU	cooltainer	NZ	Cooltainer New Zealand Ltd.		
+
+CTCU	termcotank	CH	Termcotank S.A.		
+
+CTCU	chemicals transport	JP	Chemicals Transport Co., Ltd.		
+
+CTDU		SA	The Saudi Company of Chemical Trading Ltd.		
+
+CTFU	con.a.p.	IT	Con.a.p.		
+
+CTHU		US	Chemical Transfer Company Inc.		
+
+CTHU	clarke	CA	Clarke Inc.		
+
+CTIU		IN	Chloritech Industries		
+
+CTKU	contank	ES	Contank S.A.		
+
+CTLU		NL	Container Trading & Leasing BV.		
+
+CTMU	cetem	BE	Cetem Containers NV.		
+
+CTNU	contec	JP	Contec Co., Ltd.		
+
+CTNU	cotunav	TN	Compagnie Tunisienne de Navigation		
+
+CTNU		DE	Contargo GmbH. & Co. KG.		
+
+CTPU	ctp	ID	CTP Line (Pelayaran Caraka Tirta Perkasa)		
+
+CTQU		CA	CTR International Inc.		
+
+CTRU	centrum	NL	H. EssersTransport Nederland BV.		
+
+CTTU		TR	Canta? ?ç ve D?? Ticaret So?utma Sistemleri Sanayi A. ?		
+
+CTUU					
+
+CTUU		CZ	University Centre for Energy Efficient Buildings of Technical University in Prague		
+
+CTUV		NL	Container Terminal Utrecht Verhuur		
+
+CTWU		US	SeaCube Container Leasing Ltd.		
+
+CTXU	containex	AT	Containex Container Handels GmbH.		
+
+CUBU		NL	CARU Containers BV.		
+
+CUCU		BB	Seaco S.r.l.		
+
+CUNU		NO	Combiunits A/S.		
+
+CVAU		US	Taylor - Wharton America Inc.		
+
+CVTU	cosco vtg tanktainer	CN	Cosco VOTG Tanktainer Co., Ltd.		
+
+CVVU		ID	CV. Sukses Maju Bersama		
+
+CWFU	cowin	CN	Guangzhou Cowin International Freight Forwarding Agency Co., Ltd.		
+
+CWLU	containerworld	ZA	Container World (Pty.) Ltd.		
+
+CWSU	gcatainer	NL	GCATainer BV. (ex Cargotank Worldwide Services)		
+
+CWTU	cwt	SG	CWT limited.		
+
+CWTU	cw	HK	Cheong Wing Logistic Management Ltd.		
+
+CWTU		GB	Cargostore Worldwide Trading Ltd.		
+
+CWWU		CA	Corridor Canada Inc.		
+
+CXCU	horizon	US	Matson Navigation Company Inc.		
+
+CXDU	cronos	BB	Seaco S.r.l.		
+
+CXGU	cxpc	CN	Jiangsu Chengxing Phosph-Chemical Co., Ltd.		
+
+CXHU		HK	CeX (HKG) Ltd.		
+
+CXIU	ce	DK	Titan Containers A/S.		
+
+CXLU		CN	Cangzhou Sunheat Chemicals Co., Ltd.		
+
+CXNU	concor	IN	Container Corporation of India		
+
+CXPU	comurhex	FR	Orano Cycle		
+
+CXRU	cronos	BB	Seaco S.r.l.		
+
+CXSU	cronos	BB	Seaco S.r.l.		
+
+CXTU	cronos	BB	Seaco S.r.l.		
+
+CXWU		US	Conexwest		
+
+CYAU		US	Cyanco International LLC.		
+
+CYCU		PL	Transplanner Sp. Z.O.O.		
+
+CYDU		HK	Cryodirect		
+
+CYGU	chugai boyeki	JP	CBC Co., Ltd.		
+
+CYKU		HK			
+
+CYLU		FR	Cryolor		
+
+CYMA	cyma	GB	CYMA Petroleum (UK) Ltd.		
+
+CYMU		HK	BSL Containers Ltd.		
+
+CYZU		CN	CRRC Yangtze Co., Ltd.		
+
+CZLU	contaz	FI	Containerships Ltd.Oy.		
+
+CZPU		AT	Conzept Containerhandel GmbH.		
+
+CZTU	centrans	HK	Centrans International Marine Shipping Co., Ltd.		
+
+CZZU	cai	US	CAI International Inc.
